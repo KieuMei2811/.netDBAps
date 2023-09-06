@@ -1,0 +1,2 @@
+D:\C#\dbApsNet1\dbApsNet1\obj\Debug\dbApsNet1.csproj.AssemblyReference.cache
+D:\C#\dbApsNet1\dbApsNet1\obj\Debug\dbApsNet1.csproj.CoreCompileInputs.cache
